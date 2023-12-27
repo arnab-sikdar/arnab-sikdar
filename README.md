@@ -19,8 +19,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/arnabxsikdar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arnabxsikdar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/@arnabsikdar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@arnabsikdar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/arnab sikdar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="@arnabsikdar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/arnabsikdar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@arnabsikdar" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/arnab sikdar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="arnabsikdar" height="30" width="40" /></a>
 <a href="https://fb.com/@arnabsikdar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@arnabsikdar" height="30" width="40" /></a>
 <a href="https://instagram.com/@arnabxsikdar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@arnabxsikdar" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@its_arnabsikdar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@its_arnabsikdar" height="30" width="40" /></a>
